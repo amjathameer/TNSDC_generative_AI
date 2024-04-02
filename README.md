@@ -1,4 +1,4 @@
-Face Mask Detection Project
+# Face Mask Detection Project
 
 This project is designed to detect whether a person is wearing a face mask or not using machine learning techniques. It utilizes the TensorFlow and OpenCV libraries to build and train a convolutional neural network (CNN) model for classification.
 
